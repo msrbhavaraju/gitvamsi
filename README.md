@@ -1,2 +1,2 @@
 # gitvamsi
-added from develop branch
+added from hotfix branch
